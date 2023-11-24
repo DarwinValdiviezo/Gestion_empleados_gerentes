@@ -23,7 +23,7 @@ Este proyecto implementa un sistema de gestión de empleados utilizando Programa
 
 ## Captura de Pantalla
 
-![Ejemplo de Ejecución](img/miniatura.png.png)
+![miniatura](https://github.com/DarwinValdiviezo/Gestion_empleados_gerentes/assets/82129833/cf70100a-0d57-441a-ab85-f2dd6d8f2f6c)
 
 ---
 
